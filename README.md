@@ -27,10 +27,10 @@ Como quase engenheiro e sempre presente nas áreas de engenharia e melhoria de p
 ### 📊 Github Stats
 
 <p align="left">
-  <img 
+<img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Rafael02Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rafael02Oliveira&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" 
   />
 </p>
 
